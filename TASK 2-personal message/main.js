@@ -1,3 +1,2 @@
-// console.log("hellow, world!");
-// var personname = "asad ali";
-// console.log(personname, "whould you like to learn pythin today?!");
+var personName = "asad ali";
+console.log(personName, "whould you like to learn pythin today?!");
